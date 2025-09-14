@@ -1,8 +1,8 @@
 class Divaide < Formula
   desc "Helper script to simplify launching multiple AI Agents"
   homepage "https://github.com/vinnievendemia/divaide"
-  url "https://github.com/vinnievendemia/divaide/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "770f681625a68a3e32e67ee17f2aacedafa7e0dc259fc811ba3bdbe917f62309"
+  url "https://github.com/vinnievendemia/divaide/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "7acb79fdb5d6701aa02d47fc91cfe84b53e6ee254817cc29ed07186a243002d0"
   license "MIT"
 
   def install
